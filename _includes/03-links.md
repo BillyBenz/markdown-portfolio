@@ -1,1 +1,1 @@
-[Billy Benz] (https://lab.github.com/githubtraining/communicating-using-markdown)
+[Billy Benz] (https://github.com/github/training-kit)
