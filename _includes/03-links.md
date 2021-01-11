@@ -1,1 +1,1 @@
-Billy Benz https://github.com/BillyBenz/markdown-portfolio
+[Billy Benz]  (https://github.com/BillyBenz/markdown-portfolio)
